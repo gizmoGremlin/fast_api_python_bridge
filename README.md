@@ -1,4 +1,9 @@
 # Python Rest-Api 
-Demonstrates bridge pattern in a REST api.
+Demonstrates design patterns in a REST api.
 
-Blog post here: https://nickgillcodes.com/bridge-pattern/
+## Bridge
+branch: https://github.com/gizmoGremlin/fast_api_python_bridge/tree/bridge-pattern
+Blog post: https://nickgillcodes.com/bridge-pattern/
+
+## Strategy
+coming soon
