@@ -1,2 +1,4 @@
-# Rest api made with fast api
-Demonstrates bridge pattern
+# Python Rest-Api 
+Demonstrates bridge pattern in a REST api.
+
+Blog post here: https://nickgillcodes.com/bridge-pattern/
