@@ -1,7 +1,4 @@
-
-
-
-from services.base_service import BaseDataService
+from rest_api_bridge.services.base_service import BaseDataService
 
 
 class CoinCapService(BaseDataService):
