@@ -1,15 +1,14 @@
 
-
-
-from abstractions import APIImplementaion
 from abc import abstractmethod, ABC
+
+from rest_api_bridge.abstractions.data_fetcher import DataFetcher
 
 
 class BaseDataService(ABC):
 
     #Base class for services
     
-    def __init__(self, api_impl: APIImplementaion):
+    def __init__(self, api_impl: DataFetcher):
         self._api_impl = api_impl
     
     @abstractmethod
