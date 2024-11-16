@@ -1,1 +1,2 @@
-# fast_api_python_bridge
+# Rest api made with fast api
+Demonstrates bridge pattern
