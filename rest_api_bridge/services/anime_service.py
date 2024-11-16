@@ -5,9 +5,9 @@ from services.base_service import BaseDataService
 
 
 class AnimeService(BaseDataService):
-    """
-    A specific DataService implementation for fetching anime quotes from AnimeChan API.
-    """
+    
+    #A specific DataService implementation for fetching anime quotes from AnimeChan API.
+    
 
     async def fetch_data(self, endpoint: str, params: dict = None):
         print(f"AnimeService: Fetching data from '{endpoint}'...")
